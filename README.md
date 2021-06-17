@@ -9,6 +9,8 @@ Blank Notebooks
 
 
 ## Day 4: Pandas
-|   | Run in Colab |
-| - | --- | 
-| Tutorial 1| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramyarangan/ssrp_srec_python_workshop_2021/blob/master/ssrp_pandas.ipynb)|
+Blank Notebooks
+|   | Run in Colab | Crypt Pad |
+| - | --- | --- |
+| Room 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramyarangan/ssrp_srec_python_workshop_2021/blob/master/day4_python_room1.ipynb) | [<img src="https://raw.githubusercontent.com/ramyarangan/ssrp_srec_python_workshop_2021/master/cript_pad_logo.PNG" width="25"/>](https://cryptpad.fr/code/#/2/code/edit/pf4Wo6h191hsE-PcC1McLmuh/)| 
+| Room 2| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramyarangan/ssrp_srec_python_workshop_2021/blob/master/day4_python_room2.ipynb) | [<img src="https://raw.githubusercontent.com/ramyarangan/ssrp_srec_python_workshop_2021/master/cript_pad_logo.PNG" width="25"/>](https://cryptpad.fr/code/#/2/code/edit/wyWE0Lab2srEpUxS5aa+C1sS/)| 
